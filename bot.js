@@ -244,4 +244,4 @@ client.on('ready', () => {
     });
 
 
-client.login('TOKEN');//tokn bot  
+client.login(process.env.BOT_TOKEN);  
