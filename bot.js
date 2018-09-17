@@ -244,9 +244,4 @@ client.on('ready', () => {
     });
 
 
-client.login('NDkwODk4MTExODI1MTgyNzYx.DoAAhQ.EZybP8cECVCHObKmLLae2RFAEec');//tokn bot By IISLooMz 
-/*
-مصمم البوت اي اي سلوم
-افضل بوت عربي ميوزك انصحك تجربه
-شكراً
-*/
+client.login('TOKEN');//tokn bot  
