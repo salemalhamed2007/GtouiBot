@@ -906,8 +906,8 @@ message.channel.send(`**Done || ${user.tag} Banned . :ballot_box_with_check: **`
      const embed = new Discord.RichEmbed()
  .setColor("RANDOM")
  .setThumbnail(client.user.avatarURL)
-.setTitle('Click Here .')
-.setURL('https://discordapp.com/oauth2/authorize?client_id=477008338048253983&permissions=8&scope=bot')
+.setTitle('***>>>*** **Click Here .** ***<<<*** **| IISLooMz_**')
+.setURL('https://discordapp.com/api/oauth2/authorize?client_id=490898111825182761&permissions=8&scope=bot')
   message.channel.sendEmbed(embed);
    }
 }); 
